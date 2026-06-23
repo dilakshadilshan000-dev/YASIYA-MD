@@ -1,13 +1,13 @@
 {
-    "name": "yasiya-md",
+    "name": "DILAKSHA-MD",
     "version": "2.0.0",
-    "description": "Yasiya-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
+    "description": "DILAKSHA-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
     "author": "Dark Yasiya",
     "license": "MIT",
     "scripts": {
-        "start": "pm2 start yasiya-md.js --deep-monitoring --attach --name yasiya-md",
-        "stop": "pm2 stop yasiya-md",
-        "restart": "pm2 restart yasiya-md && pm2 logs",
+        "start": "pm2 start DILAKSHA-MD.js --deep-monitoring --attach --name DILAKSHA-MD",
+        "stop": "pm2 stop DILAKSHA-MD",
+        "restart": "pm2 restart DILAKSHA-MD && pm2 logs",
         "stash": "git stash && git stash drop"
     },
     "dependencies": {
