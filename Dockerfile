@@ -17,4 +17,4 @@ ENV NODE_ENV=production
 EXPOSE 3000
 
 # Use PM2 runtime with watch
-CMD ["pm2", "start", "yasiya-md.js", "--deep-monitoring", "--attach", "--name", "yasiya-md"]
+CMD ["pm2", "start", "DILAKSHA-MD.js", "--deep-monitoring", "--attach", "--name", "DILAKSHA-MD"]
